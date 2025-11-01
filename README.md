@@ -8,9 +8,22 @@ You are a product manager for a fitness studio and are interested in understandi
 You are provided with a number of CSV files in the "Files/data" folder, which offer international and national-level data on Google Trends keyword searches related to fitness and related products.
 
 workout.csv
+
 three_keywords.csv
+
 workout_geo.csv
+
 three_keywords_geo.csv
+
+**Questions to be Answered :**
+
+**1- When was the global search for 'workout' at its peak?**
+
+**2- What was the most popular during the covid pandemic, and what is the most popular now?**
+
+**3- What country has the highest interest for workouts among the following: United States, Australia, or Japan?**
+
+**4- Which of the two countries has the highest interest in home workouts?**
 
 <img width="1136" height="639" alt="image" src="https://github.com/user-attachments/assets/f7321339-58ad-48dd-86c6-4a6c77a6e152" />
 
